@@ -19,7 +19,7 @@ Loan defaults impact profitability. Lenders need better segmentation to target l
 
 ## 🌐 Dataset
 
-- [German Credit Dataset - UCI Repository](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
+- [German Bank Customer Segmentation - Kaggle ](https://www.kaggle.com/code/nitishviraktamath/german-bank-customer-segmentation/input)
 
 ## 📉 Business Impact
 
