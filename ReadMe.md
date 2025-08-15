@@ -3,6 +3,7 @@
 This project analyzes credit risk using unsupervised learning techniques to segment loan applicants into distinct risk categories. It is tailored for financial institutions to improve loan approval strategies. 
 The notebook uses the German Credit dataset (Kaggle) with ~1,000 loan applicants labeled as good or bad credit risk— and explores how to segment these customers using clustering to uncover natural groups before even building predictive models. 
 
+![](https://github.com/itsmearafik/Credit-Risk-Segmentation-Finance-/blob/main/assets/gender_distribution.png)
 
 ## 🔎 Business Problem
 
@@ -37,11 +38,12 @@ Loan defaults impact profitability. Lenders need better segmentation to target l
 
 ## 🔢 Outputs
 
-- 4 unique customer segments:
-  -- Cluster 1: Young people requesting big loans, low savings → risky.
-  -- Cluster 2 & 3: Middle-aged customers with medium savings → medium risk.
-  -- Cluster 4: Older folks with high savings and short loans → lowest risk.
-![](https://github.com/itsmearafik/Credit-Risk-Segmentation-Finance//cluster_analysis.png)
+- Unique customer segments:
+  * Cluster 1: Young people requesting big loans, low savings → risky.
+  * Cluster 2 & 3: Middle-aged customers with medium savings → medium risk.
+  * Cluster 4: Older folks with high savings and short loans → lowest risk. <br>
+![](https://github.com/itsmearafik/Credit-Risk-Segmentation-Finance-/blob/main/assets/cluster_analysis.png)
+
 ## Key Takeaways
 
 - Identifying clusters can inform loan approval policies or help design targeted offers.
